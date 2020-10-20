@@ -1,0 +1,44 @@
+import sys
+import math
+
+# Auto-generated code below aims at helping you parse
+# the standard input according to the problem statement.
+
+l = int(input())
+h = int(input())
+t = input()
+str_all = ""
+for i in range(h):
+    row = input()
+    str_all = str_all + row
+
+# Write an answer using print
+# To debug: print("Debug messages...", file=sys.stderr, flush=True)
+
+# Take string into list
+# Convert letter to of ascii values
+lis = [ord(c) for c in t]
+for i in range(len(lis)):
+    if lis[i] in range(97,123):
+        # Convert lowercase to uppercase
+        lis[i] = lis[i] - 32
+        # Determine position in "alphabet"
+        lis[i] = lis[i] - 65
+    elif lis[i] in range(65,91):
+        # Determine position in "alphabet"
+        lis[i] = lis[i] - 65        
+    else:
+        # If not uppercase or lowercase,
+        # character is always the same, the last in str_all
+        lis[i] = 26
+
+# print width and length of letter (consider next line)
+# Loop over all letters
+text = ""
+for j in range(h):
+    for m in range(len(lis)):
+        pos = 27*l*j + lis[m]*l
+        text = text + str_all[pos:pos+l]
+    text = text + "\n"
+
+print(text)
