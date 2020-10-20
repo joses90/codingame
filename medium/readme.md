@@ -1,0 +1,1 @@
+# All medium challenges included
