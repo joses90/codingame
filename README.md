@@ -17,3 +17,4 @@ Codingame solutions to the different challenges, it will be divided into folders
 	- SHADOWS OF THE KNIGHT - EPISODE 1
 	- DON'T PANIC - EPISODE 1
 	- STOCK EXCHANGE LOSSES
+	- WAR (62%)
