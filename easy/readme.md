@@ -10,3 +10,4 @@ https://www.codingame.com/training/easy/temperatures
 https://www.codingame.com/training/easy/the-river-i-  
 https://www.codingame.com/training/easy/mime-type  
 https://www.codingame.com/training/easy/chuck-norris  
+https://www.codingame.com/training/easy/ghost-legs  
