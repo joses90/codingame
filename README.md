@@ -11,6 +11,7 @@ Codingame solutions to the different challenges, it will be divided into folders
 	- THE RIVER I.
 	- MIME TYPE (90%)
 	- CHUCK NORRIS (75%)
+	- GHOST LEGS
 - Medium:
 	- MAYAN CALCULATION
 	- THERE IS NO SPOON - EPISODE 1
