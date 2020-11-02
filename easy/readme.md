@@ -11,3 +11,6 @@ https://www.codingame.com/training/easy/the-river-i-
 https://www.codingame.com/training/easy/mime-type  
 https://www.codingame.com/training/easy/chuck-norris  
 https://www.codingame.com/training/easy/ghost-legs  
+https://www.codingame.com/training/easy/brackets-extreme-edition  
+https://www.codingame.com/training/easy/may-the-triforce-be-with-you  
+https://www.codingame.com/training/easy/bank-robbers  
