@@ -12,6 +12,9 @@ Codingame solutions to the different challenges, it will be divided into folders
 	- MIME TYPE (90%)
 	- CHUCK NORRIS (75%)
 	- GHOST LEGS
+	- BRACKETS, EXTREME EDITION
+	- MAY THE TRIFORCE BE WITH YOU!
+	- BANK ROBBERS (50%)
 - Medium:
 	- MAYAN CALCULATION
 	- THERE IS NO SPOON - EPISODE 1
