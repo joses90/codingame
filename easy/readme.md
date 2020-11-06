@@ -14,3 +14,5 @@ https://www.codingame.com/training/easy/ghost-legs
 https://www.codingame.com/training/easy/brackets-extreme-edition  
 https://www.codingame.com/training/easy/may-the-triforce-be-with-you  
 https://www.codingame.com/training/easy/bank-robbers  
+https://www.codingame.com/training/easy/1d-spreadsheet  
+https://www.codingame.com/training/easy/prefix-code  
