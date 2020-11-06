@@ -15,6 +15,8 @@ Codingame solutions to the different challenges, it will be divided into folders
 	- BRACKETS, EXTREME EDITION
 	- MAY THE TRIFORCE BE WITH YOU!
 	- BANK ROBBERS (50%)
+	- 1D SPREADSHEET
+	- PREFIX CODE
 - Medium:
 	- MAYAN CALCULATION
 	- THERE IS NO SPOON - EPISODE 1
