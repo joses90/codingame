@@ -16,3 +16,6 @@ https://www.codingame.com/training/easy/may-the-triforce-be-with-you
 https://www.codingame.com/training/easy/bank-robbers  
 https://www.codingame.com/training/easy/1d-spreadsheet  
 https://www.codingame.com/training/easy/prefix-code  
+https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock  
+https://www.codingame.com/training/easy/dungeons-and-maps  
+https://www.codingame.com/training/easy/rectangle-partition  
