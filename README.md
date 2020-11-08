@@ -17,6 +17,9 @@ Codingame solutions to the different challenges, it will be divided into folders
 	- BANK ROBBERS (50%)
 	- 1D SPREADSHEET
 	- PREFIX CODE
+	- ROCK PAPER SCISSORS LIZARD SPOCK
+	- DUNGEONS AND MAPS
+	- RECTANGLE PARTITION
 - Medium:
 	- MAYAN CALCULATION
 	- THERE IS NO SPOON - EPISODE 1
