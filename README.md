@@ -20,6 +20,7 @@ Codingame solutions to the different challenges, it will be divided into folders
 	- ROCK PAPER SCISSORS LIZARD SPOCK
 	- DUNGEONS AND MAPS
 	- RECTANGLE PARTITION
+	- ENCRYPTION/DECRIPTION OF ENIGMA MACHINE
 - Medium:
 	- MAYAN CALCULATION
 	- THERE IS NO SPOON - EPISODE 1
