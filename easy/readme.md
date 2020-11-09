@@ -19,3 +19,4 @@ https://www.codingame.com/training/easy/prefix-code
 https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock  
 https://www.codingame.com/training/easy/dungeons-and-maps  
 https://www.codingame.com/training/easy/rectangle-partition  
+https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine  
