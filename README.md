@@ -21,6 +21,8 @@ Codingame solutions to the different challenges, it will be divided into folders
 	- DUNGEONS AND MAPS
 	- RECTANGLE PARTITION
 	- ENCRYPTION/DECRIPTION OF ENIGMA MACHINE
+	- LUMEN
+	- SUDOKU VALIDATOR
 - Medium:
 	- MAYAN CALCULATION
 	- THERE IS NO SPOON - EPISODE 1
