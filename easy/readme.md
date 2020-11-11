@@ -20,3 +20,5 @@ https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock
 https://www.codingame.com/training/easy/dungeons-and-maps  
 https://www.codingame.com/training/easy/rectangle-partition  
 https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine  
+https://www.codingame.com/training/easy/lumen  
+https://www.codingame.com/training/easy/sudoku-validator
