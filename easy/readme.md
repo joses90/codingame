@@ -21,4 +21,6 @@ https://www.codingame.com/training/easy/dungeons-and-maps
 https://www.codingame.com/training/easy/rectangle-partition  
 https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine  
 https://www.codingame.com/training/easy/lumen  
-https://www.codingame.com/training/easy/sudoku-validator
+https://www.codingame.com/training/easy/sudoku-validator  
+https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s  
+https://www.codingame.com/training/easy/the-river-ii-
