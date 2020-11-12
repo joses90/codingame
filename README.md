@@ -23,6 +23,8 @@ Codingame solutions to the different challenges, it will be divided into folders
 	- ENCRYPTION/DECRIPTION OF ENIGMA MACHINE
 	- LUMEN
 	- SUDOKU VALIDATOR
+	- CREATE THE LONGEST SEQUENCE OF 1S
+	- THE RIVER II.
 - Medium:
 	- MAYAN CALCULATION
 	- THERE IS NO SPOON - EPISODE 1
