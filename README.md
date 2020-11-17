@@ -33,3 +33,6 @@ Codingame solutions to the different challenges, it will be divided into folders
 	- STOCK EXCHANGE LOSSES
 	- WAR (62%)
 	- CONWAY SEQUENCE
+- Hard:
+	- CGX FORMATTER
+	- THE GREATEST NUMBER
