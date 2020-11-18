@@ -25,6 +25,10 @@ Codingame solutions to the different challenges, it will be divided into folders
 	- SUDOKU VALIDATOR
 	- CREATE THE LONGEST SEQUENCE OF 1S
 	- THE RIVER II.
+	- TREE PATHS
+	- STALL TILT
+	- HUNGER GAMES
+	- NICHOLAS BREAKSPEARE AND HUGH OF EVESHAM
 - Medium:
 	- MAYAN CALCULATION
 	- THERE IS NO SPOON - EPISODE 1
