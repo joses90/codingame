@@ -23,4 +23,8 @@ https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine
 https://www.codingame.com/training/easy/lumen  
 https://www.codingame.com/training/easy/sudoku-validator  
 https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s  
-https://www.codingame.com/training/easy/the-river-ii-
+https://www.codingame.com/training/easy/the-river-ii-  
+https://www.codingame.com/training/easy/tree-paths  
+https://www.codingame.com/training/easy/stall-tilt  
+https://www.codingame.com/training/easy/hunger-games  
+https://www.codingame.com/training/easy/nicholas-breakspeare-and-hugh-of-evesham
