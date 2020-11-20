@@ -27,4 +27,10 @@ https://www.codingame.com/training/easy/the-river-ii-
 https://www.codingame.com/training/easy/tree-paths  
 https://www.codingame.com/training/easy/stall-tilt  
 https://www.codingame.com/training/easy/hunger-games  
-https://www.codingame.com/training/easy/nicholas-breakspeare-and-hugh-of-evesham
+https://www.codingame.com/training/easy/nicholas-breakspeare-and-hugh-of-evesham  
+https://www.codingame.com/training/easy/auto-pickup  
+https://www.codingame.com/training/easy/nature-of-quadrilaterals  
+https://www.codingame.com/training/easy/benfords-law  
+https://www.codingame.com/training/easy/brick-in-the-wall  
+https://www.codingame.com/training/easy/flip-the-sign  
+https://www.codingame.com/training/easy/jack-silver-the-casino
