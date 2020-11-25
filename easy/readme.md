@@ -33,4 +33,16 @@ https://www.codingame.com/training/easy/nature-of-quadrilaterals
 https://www.codingame.com/training/easy/benfords-law  
 https://www.codingame.com/training/easy/brick-in-the-wall  
 https://www.codingame.com/training/easy/flip-the-sign  
-https://www.codingame.com/training/easy/jack-silver-the-casino
+https://www.codingame.com/training/easy/jack-silver-the-casino  
+https://www.codingame.com/training/easy/are-the-clumps-normal  
+https://www.codingame.com/training/easy/the-travelling-salesman-problem  
+https://www.codingame.com/training/easy/dolbears-law  
+https://www.codingame.com/training/easy/smooth  
+https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm  
+https://www.codingame.com/training/easy/7-segment-scanner  
+https://www.codingame.com/training/easy/number-derivation  
+https://www.codingame.com/training/easy/blowing-fuse  
+https://www.codingame.com/training/easy/addem-up  
+https://www.codingame.com/training/easy/rugby-score  
+https://www.codingame.com/training/easy/self-driving-car-testing  
+https://www.codingame.com/training/easy/happy-numbers
