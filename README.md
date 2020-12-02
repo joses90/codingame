@@ -9,8 +9,8 @@ Codingame solutions to the different challenges, it will be divided into folders
 	- MARS LANDER - EPISODE 1
 	- TEMPERATURES
 	- THE RIVER I.
-	- MIME TYPE (90%)
-	- CHUCK NORRIS (75%)
+	- MIME TYPE
+	- CHUCK NORRIS
 	- GHOST LEGS
 	- BRACKETS, EXTREME EDITION
 	- MAY THE TRIFORCE BE WITH YOU!
@@ -47,6 +47,12 @@ Codingame solutions to the different challenges, it will be divided into folders
 	- RUGBY SCORE
 	- SELF-DRIVING CAR TESTING
 	- HAPPY NUMBERS
+	- MONDAY TUESDAY HAPPY DAYS
+	- ROBOT SHOW
+	- ISBN CHECK DIGIT
+	- SIMPLE AWALÉ
+	- HORSE-RACING HYPERDUALS
+	- DARTS
 - Medium:
 	- MAYAN CALCULATION
 	- THERE IS NO SPOON - EPISODE 1
