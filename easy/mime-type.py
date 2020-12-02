@@ -1,39 +1,31 @@
-import sys
-import math
+# Number of MIME types in association table
+n = int(input())
+# Number of files to analyse
+q = int(input())
+# Initialise dictionary to store extensions and their MIME type
+dic = {}
 
-# Auto-generated code below aims at helping you parse
-# the standard input according to the problem statement.
-
-n = int(input())  # Number of elements which make up the association table.
-q = int(input())  # Number Q of file names to be analyzed.
-dict = {}
-lis = []
+# Look through every MIME type
 for i in range(n):
-    # ext: file extension
-    # mt: MIME type.
+    # Extract the extension and type and store its uppercase value in the dictionary
     ext, mt = input().split()
-    dict[ext] = mt
+    dic[ext.upper()] = mt
+
+# Look through every file to be analysed
 for i in range(q):
-    fname = input()  # One file name per line.
-    exten = fname
-    dot = 0
+    # Store the file name
+    fname = input()
+    
+    # If there is a dot in the name
     if '.' in fname:
-        exten = fname.split('.')
-        exten = exten[-1]
-        dot = 1
-        low = str.upper(exten)
-        upp = str.lower(exten)
-    if dot == 1 and low in dict:
-            lis.append(dict[low])
-    elif dot == 1 and upp in dict:
-            lis.append(dict[upp])
+        # Extract the text entension after the last dot and uppercase it
+        exten = fname.split('.')[-1].upper()
+        # If it is in the association table, print the MIME type
+        if exten in dic:
+            print(dic[exten])
+        # Otherwise, the MIME type is unknown
+        else:
+            print("UNKNOWN")
+    # Otherwise, the MIME type is unknown
     else:
-        lis.append("UNKNOWN")
-
-# Write an answer using print
-# To debug: print("Debug messages...", file=sys.stderr, flush=True)
-
-
-# For each of the Q filenames, display on a line the corresponding MIME type. If there is no corresponding type, then display UNKNOWN.
-for l in lis:
-    print(l)
+        print("UNKNOWN")
