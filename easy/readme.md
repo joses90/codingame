@@ -45,4 +45,10 @@ https://www.codingame.com/training/easy/blowing-fuse
 https://www.codingame.com/training/easy/addem-up  
 https://www.codingame.com/training/easy/rugby-score  
 https://www.codingame.com/training/easy/self-driving-car-testing  
-https://www.codingame.com/training/easy/happy-numbers
+https://www.codingame.com/training/easy/happy-numbers  
+https://www.codingame.com/training/easy/monday-tuesday-happy-days  
+https://www.codingame.com/training/easy/robot-show  
+https://www.codingame.com/training/easy/isbn-check-digit  
+https://www.codingame.com/training/easy/simple-awale  
+https://www.codingame.com/training/easy/horse-racing-hyperduals  
+https://www.codingame.com/training/easy/darts  
