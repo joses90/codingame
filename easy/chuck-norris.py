@@ -1,4 +1,4 @@
-# Import groupby to help divide the ninary string into chunks
+# Import groupby to help divide the binary string into chunks
 # Each one has 0s or 1s but not both
 from itertools import groupby
 # Input the message
