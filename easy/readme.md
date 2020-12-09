@@ -52,3 +52,14 @@ https://www.codingame.com/training/easy/isbn-check-digit
 https://www.codingame.com/training/easy/simple-awale  
 https://www.codingame.com/training/easy/horse-racing-hyperduals  
 https://www.codingame.com/training/easy/darts  
+https://www.codingame.com/training/easy/hello-world  
+https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot  
+https://www.codingame.com/training/easy/rooks-movements  
+https://www.codingame.com/training/easy/is-that-a-possible-word-ep1  
+https://www.codingame.com/training/easy/pirates-treasure  
+https://www.codingame.com/training/easy/organic-compounds  
+https://www.codingame.com/training/easy/count-as-i-count  
+https://www.codingame.com/training/easy/xml-mdf-2016  
+https://www.codingame.com/training/easy/tictactoe  
+https://www.codingame.com/training/easy/the-electrician-apprentice  
+https://www.codingame.com/training/easy/unit-fractions 
