@@ -64,6 +64,13 @@ My Codingame solutions to the different challenges, it will be divided into fold
 	- TICTACTOE
 	- THE ELECTRICIAN APPRENTICE
 	- UNIT FRACTIONS
+	- 1D BUSH FIRE
+	- LOW RESOLUTION: WHAT'S THE SHAPE?
+	- DETECTIVE PIKAPTCHA EP1
+	- DECODE THE MESSAGE
+	- MOUNTAIN MAP
+	- HIDDEN MESSAGES IN IMAGES
+	- REVERSE FIZZBUZZ
 - Medium:
 	- MAYAN CALCULATION
 	- THERE IS NO SPOON - EPISODE 1
@@ -72,6 +79,7 @@ My Codingame solutions to the different challenges, it will be divided into fold
 	- STOCK EXCHANGE LOSSES
 	- WAR (62%)
 	- CONWAY SEQUENCE
+	- THE LOST CHILD.EPISODE-1
 - Hard:
 	- CGX FORMATTER
 	- THE GREATEST NUMBER
