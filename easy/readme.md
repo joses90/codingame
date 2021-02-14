@@ -62,4 +62,11 @@ https://www.codingame.com/training/easy/count-as-i-count
 https://www.codingame.com/training/easy/xml-mdf-2016  
 https://www.codingame.com/training/easy/tictactoe  
 https://www.codingame.com/training/easy/the-electrician-apprentice  
-https://www.codingame.com/training/easy/unit-fractions 
+https://www.codingame.com/training/easy/unit-fractions  
+https://www.codingame.com/training/easy/1d-bush-fire  
+https://www.codingame.com/training/easy/low-resolution-whats-the-shape  
+https://www.codingame.com/training/easy/detective-pikaptcha-ep1  
+https://www.codingame.com/training/easy/decode-the-message  
+https://www.codingame.com/training/easy/mountain-map  
+https://www.codingame.com/training/easy/hidden-messages-in-images  
+https://www.codingame.com/training/easy/reverse-fizzbuzz  
