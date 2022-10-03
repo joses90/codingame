@@ -71,6 +71,7 @@ My Codingame solutions to the different challenges, it will be divided into fold
 	- MOUNTAIN MAP
 	- HIDDEN MESSAGES IN IMAGES
 	- REVERSE FIZZBUZZ
+	- LOGIC GATES
 - Medium:
 	- MAYAN CALCULATION
 	- THERE IS NO SPOON - EPISODE 1
