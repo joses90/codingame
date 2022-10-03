@@ -1,5 +1,6 @@
 # Codingame
-My Codingame solutions to the different challenges, it will be divided into folders per level of difficulty:
+My Codingame solutions to the different challenges (https://www.codingame.com/training)  
+The challenges will be divided into folders per level of difficulty:
 - Easy:
 	- THE DESCENT
 	- HORSE-RACING DUALS
