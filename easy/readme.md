@@ -70,3 +70,4 @@ https://www.codingame.com/training/easy/decode-the-message
 https://www.codingame.com/training/easy/mountain-map  
 https://www.codingame.com/training/easy/hidden-messages-in-images  
 https://www.codingame.com/training/easy/reverse-fizzbuzz  
+https://www.codingame.com/training/easy/logic-gates  
