@@ -74,6 +74,7 @@ The challenges will be divided into folders per level of difficulty:
 	- REVERSE FIZZBUZZ
 	- LOGIC GATES
 	- ARTIFICIAL EMOTIONAL INTELLIGENCE
+	- WW2 MORTAR WARFARE
 - Medium:
 	- MAYAN CALCULATION
 	- THERE IS NO SPOON - EPISODE 1
