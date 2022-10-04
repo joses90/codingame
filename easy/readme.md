@@ -72,3 +72,4 @@ https://www.codingame.com/training/easy/hidden-messages-in-images
 https://www.codingame.com/training/easy/reverse-fizzbuzz  
 https://www.codingame.com/training/easy/logic-gates  
 https://www.codingame.com/training/easy/artificial-emotional-intelligence  
+https://www.codingame.com/training/easy/ww2-mortar-warfare 
